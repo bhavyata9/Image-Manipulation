@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=items\ defaultValue
+comment0.target=DropDownList(java.util.ArrayList,\ int)
+comment0.text=\r\n\ Constructs\ a\ drop-down\ list\ with\ a\ given\ list\ of\ items\r\n\ @param\ items\ -\ An\ ArrayList\ with\ the\ items\ to\ put\ in\ the\ drop\ list\r\n\ @param\ defaultValue\ -\ the\ value\ from\ the\ \ arraylist,\ that\ you\ want\ as\ the\ title\ of\ the\ list\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Things\ to\ do\ for\ each\ act.\ \r\n
+comment2.params=
+comment2.target=void\ expandList()
+comment2.text=\r\n\ Expands\ the\ drop-down\ list.\ \r\n
+comment3.params=
+comment3.target=void\ collapseList()
+comment3.text=\ \r\n\ Collapses\ the\ drop-down\ list.\r\n
+comment4.params=value
+comment4.target=void\ setSelected(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ currently-selected\ item\ of\ the\ list.\r\n\ \r\n\ @param\ value\ -\ the\ name\ of\ the\ currently-selected\ DropListItem.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getSelected()
+comment5.text=\r\n\ Returns\ the\ currently\ selected\ item.\r\n\ \r\n\ @return\ String\ -\ the\ name\ of\ the\ selected\ item\r\n
+comment6.params=
+comment6.target=void\ checkExpand()
+comment6.text=\r\n\ Checks\ if\ to\ expand\ the\ drop-down\ list.\ \r\n
+numComments=7

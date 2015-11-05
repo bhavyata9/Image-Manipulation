@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=TextButton(java.lang.String)
+comment0.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ at\ the\ default\ size\r\n\ \r\n\ @param\ text\ -\ String\ value\ to\ display\r\n\ \r\n
+comment1.params=bi
+comment1.target=TextButton(java.awt.image.BufferedImage)
+comment1.text=\r\n\ Construct\ a\ TextButton\ that\ simply\ displays\ the\ size\ of\ a\ BufferedImage\r\n\ \r\n\ @param\ bi\ -\ the\ BufferedImage\ to\ display\ the\ size\ of\ \r\n\ \r\n
+comment2.params=text\ textSize
+comment2.target=TextButton(java.lang.String,\ int)
+comment2.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ and\ a\ specified\ size\r\n\ \r\n\ @param\ text\ -\ \ String\ value\ to\ display\r\n\ @param\ textSize\ -\ size\ of\ text,\ as\ an\ integer\r\n\ \r\n
+comment3.params=text\ textSize\ color
+comment3.target=TextButton(java.lang.String,\ int,\ java.awt.Color)
+comment3.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ and\ a\ specified\ size\r\n\ \r\n\ @param\ text\ -\ String\ value\ to\ display\r\n\ @param\ textSize\ -\ size\ of\ text,\ as\ an\ integer\r\n\ @param\ color\ -\ the\ desired\ color\ of\ the\ font\r\n\ \r\n
+comment4.params=text
+comment4.target=void\ update(java.lang.String)
+comment4.text=\r\n\ Change\ the\ text\ displayed\ on\ this\ Button\ \r\n\ @param\ text\ -\ String\ to\ display\ \r\n
+comment5.params=bi
+comment5.target=void\ updateValue(java.awt.image.BufferedImage)
+comment5.text=\r\n\ Updates\ the\ size\ of\ the\ BufferedImage\r\n\ @param\ BufferedImage\ -\ the\ BufferedImage\ to\ change\ the\ size\ of\ \r\n
+numComments=6

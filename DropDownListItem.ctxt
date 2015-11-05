@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=parent\ text\ inName\ inMaxWidth\ inMaxHeight
+comment0.target=DropDownListItem(DropDownList,\ greenfoot.GreenfootImage,\ java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ drop-down\ list\ item.\r\n\ \r\n\ @param\ parent\ the\ parent\ drop-down\ list\r\n\ @param\ order\ the\ order\ of\ the\ item\ in\ the\ drop-down\ list\r\n\ @param\ text\ the\ text\ of\ the\ item,\ as\ an\ image\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Things\ to\ do\ for\ each\ act.\ \r\n
+comment2.params=
+comment2.target=void\ checkSelected()
+comment2.text=\r\n\ Checks\ if\ this\ item\ is\ selected.\r\n\ \r\n
+comment3.params=background
+comment3.target=void\ update(java.awt.Color)
+comment3.text=\r\n\ Updates\ the\ background\ color\ of\ the\ object.\r\n\ @param\ background\ -\ the\ color\ that\ the\ background\ will\ be\ changed\ too\r\n
+numComments=4

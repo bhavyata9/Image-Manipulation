@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=ImageHolder(java.lang.String)
+comment0.text=\r\n\ Construct\ an\ ImageHolder\ with\ a\ file\ name.\ If\ there\ is\ an\ error,\ \r\n\ show\ a\ blank\ GreenfootImage.\r\n\ \r\n\ @param\ fileName\ \ Name\ of\ image\ file\ to\ be\ displayed.\r\n
+comment1.params=fileName
+comment1.target=boolean\ openFile(java.lang.String)
+comment1.text=\r\n\ Attempt\ to\ open\ a\ file\ and\ assign\ it\ as\ this\ Actor's\ image\r\n\ \r\n\ @param\ fileName\ \ Name\ of\ the\ image\ file\ to\ open\ (must\ be\ in\ this\ directory)\r\n\ @return\ boolean\ \ True\ if\ operation\ successful,\ otherwise\ false\r\n
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getBufferedImage()
+comment2.text=\r\n\ Allows\ access\ to\ my\ awtImage\ -\ the\ backing\ data\ underneath\ the\ GreenfootImage\ class.\r\n\ \r\n\ @return\ BufferedImage\ returns\ the\ backing\ image\ for\ this\ Actor\ as\ an\ AwtImage\r\n
+numComments=3
